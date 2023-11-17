@@ -2,6 +2,7 @@
 
 - [Firefox](/firefox.md)
 - [Gnome](/gnome.md)
+- arch-audit
 
 # Help
 
