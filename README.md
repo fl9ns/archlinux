@@ -11,7 +11,6 @@
 - Chatterino
 - MPV
 - Gnome Console
-- universal-randomizer (Pokemon)
 
 # Help
 
