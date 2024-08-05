@@ -11,6 +11,7 @@
 - Chatterino
 - MPV
 - Gnome Console
+- power-profiles-daemon (option for gnome-control-center)
 
 # Help
 
