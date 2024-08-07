@@ -16,3 +16,6 @@
 # Help
 
 ```sudo pacman -Syyu --overwrite "*"```
+
+# install with wifi
+https://wiki.archlinux.org/title/Iwd
