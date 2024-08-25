@@ -2,15 +2,11 @@
 
 - [Firefox](/firefox.md)
 - [Gnome](/gnome.md)
-- arch-audit
-- Mission Center
-- BPYTOP
-- Speedtest
-- PAMAC
-- Code - OSS
+- BpyTOP
+- YAY
+- Code-oss
 - Chatterino
 - MPV
-- Gnome Console
 - power-profiles-daemon (option for gnome-control-center)
 - fastfetch
 
