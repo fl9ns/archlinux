@@ -7,7 +7,7 @@
 ## App
 
 ### System
-- Yay (installation)[https://github.com/Jguer/yay?tab=readme-ov-file#installation]
+- Yay [github](https://github.com/Jguer/yay?tab=readme-ov-file#installation)
 - power-profiles-daemon (option for gnome-control-center)
 - BpyTOP
 - fastfetch
@@ -19,7 +19,7 @@
 - MPV
 
 ## Wifi
-help : https://wiki.archlinux.org/title/Iwd
+help : [wiki](https://wiki.archlinux.org/title/Iwd)
 
 - ```iwctl```
 - ```station <wlan0> connect <SSID>```
