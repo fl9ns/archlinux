@@ -1,18 +1,29 @@
 # Archlinux
 
-- [Firefox](/firefox.md)
-- [Gnome](/gnome.md)
+## Desktop
+- [Gnome](/gnome.md) (4 6 12 14 15 17 23 25 38 48 58)
+- gnome-extra (7 38)
+
+## App
+
+### System
+- Yay (installation)[https://github.com/Jguer/yay?tab=readme-ov-file#installation]
+- power-profiles-daemon (option for gnome-control-center)
 - BpyTOP
-- YAY
+- fastfetch
+
+### Other
+- [Firefox](/firefox.md)
 - Code-oss
 - Chatterino
 - MPV
-- power-profiles-daemon (option for gnome-control-center)
-- fastfetch
 
-# Help
+## Wifi
+help : https://wiki.archlinux.org/title/Iwd
+
+- ```iwctl```
+- ```station <wlan0> connect <SSID>```
+
+## Help
 
 ```sudo pacman -Syyu --overwrite "*"```
-
-# install with wifi
-https://wiki.archlinux.org/title/Iwd
