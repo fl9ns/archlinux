@@ -11,6 +11,7 @@
 - power-profiles-daemon (option for gnome-control-center)
 - BpyTOP
 - fastfetch
+- plymouth [systemd-boot](https://www.reddit.com/r/archlinux/comments/1c5zt8n/install_enable_plymouth_on_arch_linux_systemdboot/)
 
 ### Other
 - [Firefox](/firefox.md)
