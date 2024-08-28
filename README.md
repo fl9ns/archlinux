@@ -24,6 +24,7 @@ help : [wiki](https://wiki.archlinux.org/title/Iwd)
 
 - ```iwctl```
 - ```station <wlan0> connect <SSID>```
+- ```station <wlan0> connect-hidden <SSID>```
 
 ## Help
 
