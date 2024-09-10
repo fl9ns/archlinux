@@ -1,7 +1,7 @@
 # Archlinux
 
 ## Desktop
-- [Gnome](/gnome.md) (4 6 12 14 15 17 23 25 38 48 58)
+- [Gnome](/gnome.md) (4 12 14 23 24 25 48 58) (6 15 17 38)
 - gnome-extra (7 38)
 
 ## App
