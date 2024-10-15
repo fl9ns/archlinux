@@ -9,7 +9,8 @@
 - [Gmail™ Notifier](https://addons.mozilla.org/en-US/firefox/addon/gmail-notifier-restartless/)
 - [Cookie Quick Manage](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/)
 - [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-- [User-Agent Switcher]([https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/))
+- [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
+- [Purple Ads BlockerPurple Ads Blocker](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)
 
 # about:config
 full-screen-api.ignore-widgets -> TRUE
