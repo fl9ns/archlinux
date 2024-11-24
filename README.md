@@ -10,6 +10,7 @@
 - Yay [github](https://github.com/Jguer/yay?tab=readme-ov-file#installation)
 - power-profiles-daemon (option for gnome-control-center)
 - BpyTOP
+- nvtop
 - fastfetch
 - plymouth [systemd-boot](/plymouth-systemd-boot.md)
 
