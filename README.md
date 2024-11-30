@@ -14,6 +14,9 @@
 - fastfetch
 - plymouth [systemd-boot](/plymouth-systemd-boot.md)
 
+### Fonts
+```pacman -S noto-fonts-{cjk,emoji,extra} adobe-source-han-sans-otc-fonts```
+
 ### Other
 - [Firefox](/firefox.md)
 - Code-oss
