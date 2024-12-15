@@ -13,6 +13,7 @@
 - nvtop
 - fastfetch
 - plymouth [systemd-boot](/plymouth-systemd-boot.md)
+- ssh [ssh-agent](/ssh.md)
 
 ### Fonts
 ```pacman -S noto-fonts-{cjk,emoji,extra} adobe-source-han-sans-otc-fonts```
