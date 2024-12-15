@@ -1,8 +1,8 @@
 # Archlinux
 
 ## Desktop
-- [Gnome](/gnome.md) (4 12 14 23 24 25 48 58) (6 15 17 38)
-- gnome-extra (7 38)
+- [Gnome](/gnome.md)
+- gnome-extra
 
 ## App
 
@@ -13,7 +13,7 @@
 - nvtop
 - fastfetch
 - plymouth [systemd-boot](/plymouth-systemd-boot.md)
-- ssh [ssh-agent](/ssh.md)
+- [ssh](/ssh.md) (private key)
 
 ### Fonts
 ```pacman -S noto-fonts-{cjk,emoji,extra} adobe-source-han-sans-otc-fonts```
