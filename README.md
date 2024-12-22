@@ -3,6 +3,7 @@
 ## Desktop
 - [Gnome](/gnome.md)
 - gnome-extra
+- gnome-firmware
 
 ## App
 
