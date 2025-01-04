@@ -4,6 +4,7 @@
 - [Gnome](/gnome.md)
 - gnome-extra
 - gnome-firmware
+- gnome-themes-extra
 
 ## App
 
