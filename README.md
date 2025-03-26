@@ -28,6 +28,7 @@
 - Code-oss
 - Chatterino
 - MPV
+- [protonup-qt](https://aur.archlinux.org/packages/protonup-qt)
 
 ## Wifi
 help : [wiki](https://wiki.archlinux.org/title/Iwd)
