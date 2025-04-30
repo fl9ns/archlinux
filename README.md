@@ -5,6 +5,7 @@
 - gnome-extra
 - gnome-firmware
 - gnome-themes-extra
+- [adw-gtk-theme](https://archlinux.org/packages/extra/any/adw-gtk-theme/)
 
 ## App
 
