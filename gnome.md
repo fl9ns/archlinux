@@ -5,6 +5,7 @@
 - [Vitals](https://extensions.gnome.org/extension/1460/vitals/) - gnome-shell-extension-vitals
 ## Extensions (gnome-browser-connector)
 - [Night Light Slider Updated](https://extensions.gnome.org/extension/6781/night-light-slider-updated/)
+- [Display Configuration Switcher](https://extensions.gnome.org/extension/7281/display-configuration-switcher/)
 
 ## background-color
 ```
