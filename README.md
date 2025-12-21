@@ -14,7 +14,7 @@
 - power-profiles-daemon (option for gnome-control-center)
 - BpyTOP
 - nvtop
-- fastfetch
+- neofetch
 - plymouth [systemd-boot](/plymouth-systemd-boot.md)
 - [ssh](/ssh.md) (private key)
 
