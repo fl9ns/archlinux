@@ -41,3 +41,7 @@ help : [wiki](https://wiki.archlinux.org/title/Iwd)
 ## Help
 
 ```sudo pacman -Syyu --overwrite "*"```
+
+## Mirror
+- OVH : [ovh.net](https://archlinux.mirrors.ovh.net/archlinux/)
+- Yourlabs : [yourlabs.org](https://arch.yourlabs.org/)
