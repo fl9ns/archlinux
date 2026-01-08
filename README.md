@@ -22,7 +22,8 @@
 ```sudo reflector --save /etc/pacman.d/mirrorlist --sort score --verbose --country France --fastest 10 --protocol https --ipv4```
 
 ### Fonts
-```pacman -S noto-fonts-{cjk,emoji,extra} adobe-source-han-sans-otc-fonts```
+- ```pacman -S noto-fonts-{cjk,emoji,extra} adobe-source-han-sans-otc-fonts```
+- ```pacman -S ttf-ubuntu-mono-nerd```
 
 ### Other
 - [Firefox](/firefox.md)
