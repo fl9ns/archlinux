@@ -9,6 +9,9 @@
 
 ## App
 
+### Counter-Strike 2
+- Set Launch Option ```SDL_MOUSE_RELATIVE_MODE_CENTER=1 %command%```
+
 ### System
 - Yay [github](https://github.com/Jguer/yay?tab=readme-ov-file#installation)
 - power-profiles-daemon (option for gnome-control-center)
@@ -19,7 +22,7 @@
 - [ssh](/ssh.md) (private key)
 
 ### Mirror (reflector)
-```sudo reflector --save /etc/pacman.d/mirrorlist --sort score --verbose --country France --fastest 10 --protocol https --ipv4```
+- ```sudo reflector --save /etc/pacman.d/mirrorlist --sort score --verbose --country France --fastest 10 --protocol https --ipv4```
 
 ### Fonts
 - ```pacman -S noto-fonts-{cjk,emoji,extra} adobe-source-han-sans-otc-fonts```
@@ -33,7 +36,7 @@
 - [protonup-qt](https://aur.archlinux.org/packages/protonup-qt)
 
 ## Wifi
-help : [wiki](https://wiki.archlinux.org/title/Iwd)
+- help : [wiki](https://wiki.archlinux.org/title/Iwd)
 
 - ```iwctl```
 - ```station <wlan0> connect <SSID>```
@@ -41,7 +44,7 @@ help : [wiki](https://wiki.archlinux.org/title/Iwd)
 
 ## Help
 
-```sudo pacman -Syyu --overwrite "*"```
+- ```sudo pacman -Syyu --overwrite "*"```
 
 ## Mirror
 - OVH : [ovh.net](https://archlinux.mirrors.ovh.net/archlinux/)
