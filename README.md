@@ -9,9 +9,6 @@
 
 ## App
 
-### Counter-Strike 2
-- Set Launch Option ```SDL_MOUSE_RELATIVE_MODE_CENTER=1 %command%```
-
 ### System
 - Yay [github](https://github.com/Jguer/yay?tab=readme-ov-file#installation)
 - power-profiles-daemon (option for gnome-control-center)
