@@ -27,7 +27,7 @@
 
 ### Other
 - [Firefox](/firefox.md)
-- Code-oss
+- VSCodium
 - Chatterino
 - MPV
 - [protonup-qt](https://aur.archlinux.org/packages/protonup-qt)
