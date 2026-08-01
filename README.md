@@ -17,6 +17,7 @@
 - fastfetch
 - plymouth [systemd-boot](/plymouth-systemd-boot.md)
 - [ssh](/ssh.md) (private key)
+- alsamixer
 
 ### Mirror (reflector)
 - ```sudo reflector --save /etc/pacman.d/mirrorlist --sort score --verbose --country France --fastest 10 --protocol https --ipv4```
